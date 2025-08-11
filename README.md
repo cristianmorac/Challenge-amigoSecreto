@@ -6,8 +6,8 @@ Este poryecto es para afianzar el conocimiento adquirido, se realiza una aplicac
 
 ## Características
 
-**Agregar amigos** Crea una lista de las personas que se van añadiendo
-**Sortear amigo** Genera una lista que coloca de manera aleatoria las parejas de amigo secreto,
+- **Agregar amigos** Crea una lista de las personas que se van añadiendo
+- **Sortear amigo** Genera una lista que coloca de manera aleatoria las parejas de amigo secreto.  
     -  **Listas impares** la persona que no este con pareja mostrará un mensaje **sin pareja**
 
 ## Estructura del proyecto
@@ -42,9 +42,10 @@ cd Challenge-amigoSecreto
 ### Ejemplo de uso
 
 1. Se agregan los sisguientes amigos
-    - [Carlos, Padro, Lorraine]
+    - colocar nombre en el texto **Carlos**
+    - Clic en el botón **añadir**
     
-![Crear lista de amigos](assets/listaUser.png)
+![Crear lista de amigos](assets/listUser.png)
 
 2. Clic en sortear amigos
 ![Generar parejas en una lista](assets/sortearAmigos.png)
