@@ -48,6 +48,7 @@ cd Challenge-amigoSecreto
 ![Crear lista de amigos](assets/listUser.png)
 
 2. Clic en sortear amigos
+
 ![Generar parejas en una lista](assets/sortearAmigos.png)
 
 
